@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **secret project**
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://media.tenor.com/jCk8c5_Q4J0AAAAC/hacker.gif" align="center" style="width: 50%" />
 </div>  
 
 <p align="left">
